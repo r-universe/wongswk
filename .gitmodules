@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "abcADM"]
+	path = abcADM
+	url = https://github.com/cran/abcADM
+	shallow = true
+	registered = true
+[submodule "compas"]
+	path = compas
+	url = https://github.com/cran/compas
+	shallow = true
+	registered = true
